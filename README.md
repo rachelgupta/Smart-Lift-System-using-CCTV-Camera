@@ -1,4 +1,4 @@
-![image](https://github.com/rachelgupta/Smart-Lift-System-using-CCTV-Camera/assets/83275253/5d2a78f7-0f1c-4d8c-a01d-175ba4f047e3)# Smart Lift System using CCTV Camera
+# Smart Lift System using CCTV Camera
 
 The general concept of modern elevators, which became widely exploitable some 150 years ago, has regardless of many technological advancements remained mostly the same. The typical elevator still needs travelers to press the respective arrow buttons and wait for some time for the lift to come. If at some floor there’s a huge crowd waiting for the lift, they stand randomly creating a mess for the people coming out of the lift. And as there is no queue it is very difficult for someone from the back to check whether his desired button(up/down) is pressed or not.
 
